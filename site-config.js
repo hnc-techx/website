@@ -256,7 +256,7 @@ const siteConfig = {
     subtitle: "Tell us what you're building. We'll respond with a site survey plan and a clear, itemised proposal.",
     address:  "10, Level 3, Akshaya HQ OMR Road, IT Express Highway, Kazhipattur, Chennai,  Tamil Nadu 603103.",
     phone:    "+91 63850 55113",
-    email:    "info@hnctechinfra.com",
+    email:    "info@hnctech.in",
     website:  "hnctech.in",
     websiteUrl: "https://hnctech.in",
     /* Paste a Google Maps embed URL to show a live map; else a placeholder shows. */
