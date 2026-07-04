@@ -93,7 +93,7 @@ const siteConfig = {
       "asset/img/obj/asset6.PNG",
       "asset/img/obj/asset3.png",
       "asset/img/obj/asset4.png",
-      "asset/img/obj/asset5.PNG"
+      "asset/img/obj/asset7.PNG"
     ],   // 2+ images = fading slideshow; 1 = single image; [] = built-in rack visual
     paragraphs: [
       "HNCTech Infra Solutions Private Limited designs and delivers enterprise-grade IT infrastructure — from structured cabling and networking to surveillance, access control and data centre systems. We work across deep-tech startups, IT parks and manufacturing industries, combining hands-on field expertise with disciplined project execution.",
