@@ -280,7 +280,7 @@ const siteConfig = {
   footer: {
     about: "Building the IT backbone of modern enterprises — designed, deployed and documented end-to-end.",
     social: [
-      { icon: "bi-linkedin",   href: "#", label: "LinkedIn" },
+      { icon: "bi-linkedin",   href: "https://www.linkedin.com/company/hnctech-infra-solutions", label: "LinkedIn" },
       { icon: "bi-twitter-x",  href: "#", label: "Twitter / X" },
       { icon: "bi-facebook",   href: "#", label: "Facebook" },
       { icon: "bi-instagram",  href: "#", label: "Instagram" }
